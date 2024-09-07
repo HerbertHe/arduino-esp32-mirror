@@ -1,0 +1,12 @@
+{
+  "name": "arduino-esp32-mirror",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "repository": "git@github.com:HerbertHe/arduino-esp32-mirror.git",
+  "author": "HerbertHe <Herbert.He0229@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "gen": "node src/index.js"
+  }
+}
